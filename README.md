@@ -13,7 +13,7 @@ Upon returning to the title screen, you will be able to save any changes you mak
 2. Open the Github File and extract all contents.
 3. Install Python to your computer (if you have not already.)
 4. Install Pillow to Python (more instructions found in NOTE 1 below!)
-5. Open the Python IDLE Shell and open the Tasky_TaskManagement.py file (if needed, search through the extracted Tasky_Task Management file).
+5. Open the Python IDLE Shell and open the Tasky_TaskManagement.py file (if needed, search for the .py file through the extracted Tasky_Task Management file when you are prompted to pick a file to open).
 6. You are now ready to get started! Enjoy!
 
 ##NOTE 1: This project uses Pillow, an external library that allows for the importing and modifications of images. Please ensure that you have it installed before running this program, or otherwise the code will not run! After installing Python, you can install Pillow by searching for and opening the Command Prompt application on Windows (or Terminal application for Mac users), and entering in "pip install pillow" as your input. Clicking Enter will then install the package on your computer and allow you to open it in Python!
